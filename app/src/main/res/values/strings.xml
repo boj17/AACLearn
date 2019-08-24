@@ -6,4 +6,12 @@
     <string name="lifecyclebtn">lifecycle</string>
     <string name="btnLiveData">btnLiveData</string>
     <string name="btnDatabinding">btnDatabinding</string>
+    <string name="tvA">Team A</string>
+    <string name="tvB">Team B</string>
+    <string name="score">0</string>
+
+    <string name="btn3">+3</string>
+    <string name="undo">撤销</string>
+    <string name="refresh">刷新</string>
+    <string name="btn7">篮球计分板</string>
 </resources>

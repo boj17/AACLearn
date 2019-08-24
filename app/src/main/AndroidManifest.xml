@@ -9,11 +9,15 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".DatabindingActivity">
+        <activity android:name=".scoreboard.ScoreBoardActivity">
         </activity>
-        <activity android:name=".LiveDataActivity">
+        <activity android:name=".Main2Activity">
         </activity>
-        <activity android:name=".ViewModelActivity">
+        <activity android:name=".databinding.DatabindingActivity">
+        </activity>
+        <activity android:name=".livedata.LiveDataActivity">
+        </activity>
+        <activity android:name=".viewdoel.ViewModelActivity">
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>

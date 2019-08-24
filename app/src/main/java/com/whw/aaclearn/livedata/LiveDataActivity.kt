@@ -1,14 +1,15 @@
-package com.whw.aaclearn
+package com.whw.aaclearn.livedata
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import com.whw.aaclearn.R
 import kotlinx.android.synthetic.main.activity_live_data.*
 
 class LiveDataActivity : AppCompatActivity() {
 
-    lateinit var viewModel:ViewModelWithLivaeData
+    lateinit var viewModel: ViewModelWithLivaeData
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

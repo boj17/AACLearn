@@ -1,8 +1,9 @@
-package com.whw.aaclearn
+package com.whw.aaclearn.viewdoel
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProviders
+import com.whw.aaclearn.R
 import kotlinx.android.synthetic.main.activity_lifecycle.*
 
 

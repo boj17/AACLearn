@@ -1,4 +1,4 @@
-package com.whw.aaclearn
+package com.whw.aaclearn.livedata
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

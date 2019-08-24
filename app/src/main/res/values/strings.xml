@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AACLearn</string>
+    <string name="tv1">welcome</string>
+    <string name="btn1">+1</string>
+    <string name="btn2">+2</string>
+    <string name="lifecyclebtn">lifecycle</string>
+    <string name="btnLiveData">btnLiveData</string>
+    <string name="btnDatabinding">btnDatabinding</string>
 </resources>
